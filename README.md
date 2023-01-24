@@ -1,6 +1,7 @@
 # Practical Application 3
 
-In this third practical application assignment, the goal is to compare the performance of the classifiers:
+In this [third practical application](https://github.com/manojkoushik/BH-PCMLAI-PA-17.1/blob/main/PA3_Compare_Classifiers.ipynb) assignment, the goal is to compare the performance of the classifiers:
+
 * k-nearest neighbors
 * logistic regression
 * decision trees
